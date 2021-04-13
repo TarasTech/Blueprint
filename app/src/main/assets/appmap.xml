@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- Contacts App -->
+    <item class="com.android.vending.AssetBrowserActivity" name="google_play" />
+    <item class="com.thine.wyms.MainActivity" name="thine" />
+    <item class="com.twitter.android.StartActivity" name="twitter" />
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
+    <item class="com.samsung.vvm.vvmapp.VVMApplication" name="voicemail" />
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_vanced" />
+    <item class="com.viber.voip.WelcomeActivity" name="viber" />
+    <item class="org.microg.gms.ui.SettingsActivity" name="vanced_microg" />
+    <item class="com.ubercab.eats.app.feature.launch.LauncherActivity" name="vanced_manager" />
+    <item class="com.usb.module.environment.ui.SplashActivity" name="us_bank" />
+    <item class="com.samsung.android.app.tips.TipsMainActivity" name="tips" />
+    <item class="com.spotify.music.MainActivity" name="spotify" />
+    <item class="com.snapchat.android.LandingPageActivity" name="snapchat" />
+    <item class="com.samsung.android.oneconnect.ui.SCMainActivity" name="smart_things" />
+    <item class="com.sec.android.easyMover.DistributionActivity" name="smart_switch" />
+    <item class="com.android.settings.Settings" name="settings" />
+    <item class="com.samsung.ecomm.MainActivity" name="shop_samsung" />
+    <item class="com.samsung.android.spay.ui.SpayMainActivity" name="samsung_pay" />
+    <item class="com.samsung.android.app.notes.memolist.MemoListActivity" name="samsung_notes" />
+    <item class="com.sec.android.app.music.common.activity.MusicMainActivity" name="samsung_music" />
+    <item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet" />
+    <item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow" />
+    <item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="samsung_reminders" />
+    <item class="launcher.default" name="reddit" />
+    <item class="com.amazon.avod.thirdpartyclient.LauncherActivity" name="prime_video" />
+    <item class="com.pinterest.activity.PinterestActivity" name="pintrest" />
+    <item class="com.google.android.apps.photos.home.HomeActivity" name="google_photos" />
+    <item class="com.samsung.android.dialer.DialtactsActivity" name="samsung_phone" />
+    <item class="de.wetteronline.wetterapp.MainActivityGoogle" name="weather"/>
+    <item class="com.samsung.android.weather.app.AppLauncherActivity" name="weather"/>
+    <item class="com.huawei.android.totemweatherapp.WeatherHome" name="weather"/>
+    <item class="net.oneplus.weather.app.MainActivity" name="weather"/>
+    <item class="com.miui.weather2.ActivityWeatherMain" name="weather"/>
+    <item class="com.vivo.weather.WeatherMain" name="weather"/>
+    <item class="com.samruston.weather.MainActivity" name="weather"/>
+    <item class="com.coloros.weather.OppoMainActivity" name="weather"/>
+    <item class="com.huawei.android.totemweather.WeatherHome" name="weather"/>
+    <item class="com.samruston.weather.ui.MainActivity" name="weather"/>
+    <item class="com.coloros.weather.OppoMainActivity" name="weather"/>
+    <item class="com.meizu.flyme.weather.WeatherMainActivity" name="weather"/>
+    <item class="com.coloros.weather.main.view.WeatherMainActivity" name="weather"/>
+    <item class="com.instagram.android.activity.MainTabActivity" name="instagram" />
+    <item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish"/>
+    <item class="com.imggaming.dicemobile.MainActivity" name="ufc" />
+    <item class="com.tinder.activities.LoginActivity" name="tinder" />
+    <item class="com.camerasideas.instashot.DummyActivity" name="instashot" />
+    <item class="com.apple.android.music.onboarding.activities.SplashActivity" name="apple_music" />
+    <item class="com.facebook.katana.LoginActivity" name="facebook" />
+    <item class="com.facebook.orca.auth.StartScreenActivity" name="facebook_messenger" />
+    <item class="com.chase.sig.android.activity.LoginActivity" name="chase" />
+    <item class="com.chase.sig.android.activity.SplashActivity" name="chase" />
+    <item class="com.bitstrips.imoji.ui.LandingActivity" name="bitmoji" />
+    <item class="com.axis.mobile.MainActivity" name="axis_bank"/>
+    <item class="com.anchorfree.betternet.ui.BetternetActivity" name="betternet" />
+    <item class="com.anchorfree.betternet.ui.BetternetActivity" name="adobe_illustrator" />
+    <item class="com.netflix.mediaclient.ui.launch.UIWebViewActivity" name="netflix" />
+    <item class="com.microsoft.xbox.xle.app.MainActivity" name="xbox" />
+    <item class="com.desmos.calculator.MainActivity" name="desmos" />
+    <item class="com.starbucks.mobilecard.main.activity.LandingPageActivity" name="desmos" />
+    <item class="com.pandora.android.LauncherActivity" name="pandora"/>
+    <item class="com.pandora.android.Main" name="pandora"/>
+    <item class="com.soundcloud.android.main.MainActivity" name="soundcloud" />
+    <item class="org.mozilla.firefox.App" name="firefox" />
+    <item class="crc6466778ac8e5630834.SplashActivity" name="ups" />
+    <item class="com.unity3d.player.UnityPlayerActivity" name="amongus" />
+    <item class="com.discord.app.AppActivity$Main" name="discord" />
+    <item class="com.foursquare.robin.activities.MainActivity" name="swarm" />
+    <item class="com.google.android.apps.translate.TranslateActivity" name="google_translate" />
+    <item class="com.tencent.tmgp.cod.PermissionGrantActivity" name="cod" />
+    <item class="com.poshmark.ui.MainActivity" name="poshmark" />
+    <item class="com.roitgames.legueconnect.ui.MainActivity" name="lol" />
+    <item class="com.supercell.clashroyale.GameApp" name="clash_royale" />
+    <item class="com.supercell.titan.GameApp" name="clash_royale" />
+    <item class="com.supercell.clashofclans.GameApp" name="clash_of_clans" />
+    <item class="com.supercell.titan.GameApp" name="clash_of_clans" />
+    <item class="com.supercell.id.ui.MainActivity" name="boom_beach" />
+    <item class="host.exp.exponent.MainActivity" name="supreme" />
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube" />
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube" />
+    <item class="com.google.android.apps.classroom.application.launcher.LauncherActivity" name="gclass" />
+    <item class="com.microsoft.office.apphost.LaunchActivity" name="micword" />
+    <item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="steam" />
+    <item class="com.onedebit.chime.MainActivity" name="chime" />
+    <item class="com.newegg.app.MainActivity" name="newegg" />
+    <item class="com.gaana.SplashScreenActivity" name="gana" />
+    <item class="com.doordash.consumer.ui.login.LauncherActivity" name="doordash" />
+    <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+    <item class="com.skype4life.MainActivity" name="skype" />
+    <item class="com.google.android.apps.youtube.kids/" name="youtube_kids" />
+    <item class="com.zipow.videobox.LauncherActivity" name="zoom" />
+    <item class="com.chukerteam.chucker.api.internal.ui.MainActivty" name="iheart" />
+    <item class="com.youversion.ui.MainActivity" name="bible" />
+    <item class="com.squareup.cash.ui.MainActivity" name="cashapp" />
+    <item class="com.lastpass.lpandroid.activity.WebBrowserActivity" name="lastpass" />
+    <item class="io.yuka.android.Main.MainActivity" name="yuca" />
+    <item class="flipboard.activities.LaunchActivityAlias" name="flipboard" />
+    <item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova" />
+    <item class="com.android.mms.ui.ConversationComposer" name="messages" />
+    <item class="com.android.mms.ui.ComposeMessageMms" name="messages"/>
+    <item class="com.android.mms.ui.ConversationComposer" name="messages"/>
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="messages"/>
+    <item class="com.android.mms.ui.MmsTabActivity" name="messages"/>
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messages"/>
+    <item class="com.android.mms.ui.ConversationList" name="messages"/>
+    <item class="com.htc.sense.mms.ui.CmasListActivityShortCut" name="messages"/>
+    <item class="com.htc.sense.mms.ui.ATTVoiceMailTabActivity" name="messages"/>
+    <item class="com.sonyericsson.conversations.ui.ConversationListActivity" name="messages"/>
+    <item class="com.android.mms.ui.BootActivity" name="messages"/>
+    <item class="com.android.mms.ui.ConversationList" name="messages"/>
+    <item class="com.verizon.mms.ui.activity.Provisioning" name="messages"/>
+    <item class=":SMS" name="messages" />
+
+
+
+</appmap>

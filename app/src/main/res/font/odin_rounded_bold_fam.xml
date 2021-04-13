@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:font="@font/odin_rounded_bold"
+        app:fontStyle="normal"
+        app:fontWeight="1000" />
+    <font
+        app:font="@font/odin_rounded_bold"
+        app:fontStyle="italic"
+        app:fontWeight="1000" />
+</font-family>
